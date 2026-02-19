@@ -14,16 +14,20 @@
 
 
 #include <stdint.h>
+
 #include <string.h>
 #include <stdio.h>
 #include <stdarg.h>
 #include <stdbool.h>
 #include <stdlib.h>   /* qsort */
 
+/* prueba commit */
+
 /* ===================== CONFIG ===================== */
 #define DT_BUF_SZ        4096
 #define HL_BUF_SZ        8192
 #define BIT_BUF_SZ       2048   /* un poco más para tener margen */
+
 
 /* fin de frame si dt > GAP_US (si hay “hueco” real) */
 #define GAP_US           5500u

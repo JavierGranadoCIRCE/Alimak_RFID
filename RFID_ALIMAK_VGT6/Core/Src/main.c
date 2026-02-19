@@ -25,6 +25,7 @@
 /* prueba commit */
 /* prueba commit */
 /* prueba commit new brach write */
+/* prueba commit GitLab */
 
 /* ===================== CONFIG ===================== */
 #define DT_BUF_SZ        4096

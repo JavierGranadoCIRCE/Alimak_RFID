@@ -28,6 +28,7 @@
 /* prueba commit GitLab */
 /* prueba commit GitLab */
 /* prueba commit GitLab */
+/* prueba commit GitHub/GitLab */
 
 /* ===================== CONFIG ===================== */
 #define DT_BUF_SZ        4096
